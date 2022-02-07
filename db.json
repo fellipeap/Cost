@@ -7,8 +7,21 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "service": [],
+      "cost": 16000,
+      "services": [
+        {
+          "name": "servidor",
+          "cost": "1000",
+          "description": "Serviço teste validação valor total do orçamento",
+          "id": "7b60aa07-2352-4adf-ab4b-3a14a833471d"
+        },
+        {
+          "name": "Programador ",
+          "cost": "15000",
+          "description": "O erro era causado devido o array de service ter sido definido como \"service\" ao invés de \"services\" no newProject.js",
+          "id": "6f0aeaa0-be1d-4b73-af2a-18417013d02d"
+        }
+      ],
       "id": 15
     },
     {
@@ -19,7 +32,7 @@
         "name": "Desenvolvimento"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 16
     },
     {
@@ -30,7 +43,7 @@
         "name": "Planejamento"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 17
     },
     {
@@ -41,7 +54,7 @@
         "name": "Desing"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 18
     },
     {
@@ -52,8 +65,19 @@
         "name": "Infra"
       },
       "cost": 0,
-      "service": [],
+      "services": [],
       "id": 19
+    },
+    {
+      "name": "project test",
+      "budget": "80000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 20
     }
   ],
   "categories": [
