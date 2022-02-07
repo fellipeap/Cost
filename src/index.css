@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', Sans-serif;
+}
+
+html, body, #root {
+  background-color: #efefefef;
+  height: 100%;
+}
