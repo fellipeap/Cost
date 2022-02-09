@@ -7,7 +7,7 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 16000,
+      "cost": 21030,
       "services": [
         {
           "name": "servidor",
@@ -20,6 +20,18 @@
           "cost": "15000",
           "description": "O erro era causado devido o array de service ter sido definido como \"service\" ao invés de \"services\" no newProject.js",
           "id": "6f0aeaa0-be1d-4b73-af2a-18417013d02d"
+        },
+        {
+          "name": "Contratar dev PHP",
+          "cost": "5000",
+          "description": "Contratar frila para concluir ajustes no back end (nas listas)",
+          "id": "2fb43551-d5a4-48d6-a0b4-a88d79f8a0f7"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "30",
+          "description": "descrição teste",
+          "id": "bfa2d825-0c8e-4a6a-92bf-83b41be1b118"
         }
       ],
       "id": 15
