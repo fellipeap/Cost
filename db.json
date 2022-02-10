@@ -7,52 +7,23 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 21030,
+      "cost": 5000,
       "services": [
-        {
-          "name": "servidor",
-          "cost": "1000",
-          "description": "Serviço teste validação valor total do orçamento",
-          "id": "7b60aa07-2352-4adf-ab4b-3a14a833471d"
-        },
-        {
-          "name": "Programador ",
-          "cost": "15000",
-          "description": "O erro era causado devido o array de service ter sido definido como \"service\" ao invés de \"services\" no newProject.js",
-          "id": "6f0aeaa0-be1d-4b73-af2a-18417013d02d"
-        },
         {
           "name": "Contratar dev PHP",
           "cost": "5000",
           "description": "Contratar frila para concluir ajustes no back end (nas listas)",
           "id": "2fb43551-d5a4-48d6-a0b4-a88d79f8a0f7"
-        },
-        {
-          "name": "Novo serviço",
-          "cost": "30",
-          "description": "descrição teste",
-          "id": "bfa2d825-0c8e-4a6a-92bf-83b41be1b118"
         }
       ],
       "id": 15
     },
     {
-      "name": "Projeto teste Agora vai! 3.0",
+      "name": "Mais um projeto!",
       "budget": "300000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 16
-    },
-    {
-      "name": "Mais um projeto!",
-      "budget": "300000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
@@ -68,28 +39,6 @@
       "cost": 0,
       "services": [],
       "id": 18
-    },
-    {
-      "name": "new project 2",
-      "budget": "10000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 19
-    },
-    {
-      "name": "project test",
-      "budget": "80000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 20
     }
   ],
   "categories": [
